@@ -32,3 +32,7 @@ ngrok for https tunneling
 3. Open windows command prompt, go to that folder and run this command: ngrok http 80000
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
+
+Drive link contains screen recording of the chatbot in action, the backend interface, and 
+the database schema where order is stored and price is calculated along with progress of the order.
+https://drive.google.com/drive/folders/11dTKjK-xi_RSKrjFmqQWHVsdho-yRM15?usp=sharing
