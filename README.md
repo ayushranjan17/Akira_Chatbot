@@ -7,6 +7,7 @@ db_helper.py, generic_helper.py, main.py
 SQL file used for database management: pandeyji_eatery.sql
 
 ===================
+
 backend: Contains Python FastAPI backend code
  pandeyji_eatery.sql: contains the dump of the database, you need to import this into your MySQL db by using MySQL workbench tool
 dialogflow_assets: this has training phrases etc. for our intents
